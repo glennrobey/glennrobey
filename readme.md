@@ -1,68 +1,38 @@
-```html
-<h1 align="center">Glenn Robey</h1>
+Glenn Robey
 
-<p align="center">
-  <strong>Full-Stack Developer | C++ | TypeScript | Linux | Neovim</strong>
-</p>
+Full-Stack Developer | C++ | TypeScript | Linux | Neovim
 
-<p align="center">
-  Backend-focused developer building modern applications with C++, TypeScript, React, and Linux.
-</p>
+Backend-focused developer building modern applications with C++, TypeScript, React, and Linux.
 
-<hr>
+🛠 Technologies
+Languages
+C++
+TypeScript
+JavaScript
+SQL
+Frontend
+React
+Vite
+Tailwind CSS
+Backend
+Drogon
+Node.js
+REST APIs
+Tools
+Git
+Docker
+CMake
+Linux
+Neovim
+PostgreSQL
+🚀 Current Projects
 
-<h2>🛠 Tech Stack</h2>
+IntWeather
+C++/Drogon weather service with a React frontend.
 
-<h3>Languages</h3>
-<ul>
-  <li>C++</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
-  <li>SQL</li>
-</ul>
 
-<h3>Frontend</h3>
-<ul>
-  <li>React</li>
-  <li>Vite</li>
-  <li>Tailwind CSS</li>
-</ul>
-
-<h3>Backend</h3>
-<ul>
-  <li>Drogon</li>
-  <li>Node.js</li>
-  <li>REST APIs</li>
-</ul>
-
-<h3>Tools</h3>
-<ul>
-  <li>Git</li>
-  <li>Docker</li>
-  <li>CMake</li>
-  <li>Linux</li>
-  <li>Neovim</li>
-  <li>PostgreSQL</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Current Projects</h2>
-
-<ul>
-  <li>
-    <strong>IntWeather</strong> — C++/Drogon weather service with a React frontend
-  </li>
-</ul>
-
-<hr>
-
-<h2>📚 Currently Learning</h2>
-
-<ul>
-  <li>Modern C++</li>
-  <li>System Design</li>
-  <li>Linux Administration</li>
-  <li>Backend Architecture</li>
-</ul>
-```
+📚 Focus Areas
+Modern C++
+System Design
+Linux Administration
+Backend Architecture
