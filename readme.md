@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Backend-focused developer building modern applications with C++, TypeScript, React, and Linux.
+  Full-stack developer building modern applications with C++, TypeScript, React, and Linux.
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
 <ul>
   <li>C++</li>
   <li>TypeScript</li>
-  <li>Linux</li>
+  <li>JavaScript</li>
   <li>SQL</li>
 </ul>
 
@@ -34,14 +34,20 @@
   <li>REST APIs</li>
 </ul>
 
-<h3>Tools</h3>
+<h3>Development Environment</h3>
 <ul>
-  <li>Git</li>
-  <li>Docker</li>
-  <li>CMake</li>
   <li>Linux</li>
   <li>Neovim</li>
+  <li>Git</li>
+  <li>Docker</li>
   <li>PostgreSQL</li>
+</ul>
+
+<h3>C++ Toolchain</h3>
+<ul>
+  <li>Clang++ (LLVM)</li>
+  <li>CMake</li>
+  <li>Ninja</li>
 </ul>
 
 <hr>
@@ -61,4 +67,5 @@
   <li>System Design</li>
   <li>Linux Administration</li>
   <li>Backend Architecture</li>
+  <li>Server Infrastructure</li>
 </ul>
