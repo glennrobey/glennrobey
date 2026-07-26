@@ -53,9 +53,6 @@
   <li>
     <strong>IntWeather</strong> — C++/Drogon weather service with a React frontend
   </li>
-  <li>
-    <strong>C++Calc</strong> — Full-stack scientific calculator featuring a custom expression parser
-  </li>
 </ul>
 
 <hr>
